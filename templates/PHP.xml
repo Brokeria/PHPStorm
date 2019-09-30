@@ -1,0 +1,10 @@
+<templateSet group="PHP">
+  <template name="todo" value="//TODO $DATE$ $USER$: $END$" description="Inserts todo tag with current date , author and description" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="date()" alwaysStopAt="false" />
+    <variable name="USER" expression="" defaultValue="user()" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

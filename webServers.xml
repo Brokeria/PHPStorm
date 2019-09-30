@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="53cff8a0-9c6e-4fbc-ad12-8530ae90c448" name="Telzam v5" url="http://telzam5.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ca9eb221-cd0d-42c1-ab47-b572fab07865" name="Sessions" url="http://sessions.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -6,6 +6,9 @@
   <PHPCodeStyleSettings>
     <option name="BLANK_LINES_AFTER_FUNCTION" value="2" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="CLASS_BRACE_STYLE" value="1" />

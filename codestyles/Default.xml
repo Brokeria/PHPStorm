@@ -9,6 +9,9 @@
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="CLASS_BRACE_STYLE" value="1" />

@@ -8,4 +8,7 @@
   <action id="ShowAppliedStylesAction">
     <mouse-shortcut keystroke="control button3" />
   </action>
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
 </keymap>

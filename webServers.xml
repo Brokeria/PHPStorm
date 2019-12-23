@@ -9,9 +9,6 @@
       <webServer id="ca9eb221-cd0d-42c1-ab47-b572fab07865" name="Sessions" url="http://sessions.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="1c030f64-e353-46d3-8a47-16db288e9be3" name="sportshop" url="http://sportshop.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>

@@ -1,11 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="53cff8a0-9c6e-4fbc-ad12-8530ae90c448" name="Telzam v5" url="http://telzam.mssoft.com.pl">
-        <fileTransfer host="mssoft.com.pl" port="22" privateKey="C:\Users\mssoft\.ssh\id_rsa" rootFolder="/home/users/telzam/public_html" accessType="SFTP" keyPair="true">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="ca9eb221-cd0d-42c1-ab47-b572fab07865" name="Sessions" url="http://sessions.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>

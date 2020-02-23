@@ -4,7 +4,7 @@
     <property name="created">2019-04-11T21:30:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-02-23T18:33:57</property>
+    <property name="modified">2020-02-23T18:38:56</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -87,7 +87,7 @@
     <option name="ScrollBar.hoverThumbColor" value="ffd866" />
     <option name="ScrollBar.hoverTrackColor" value="2d2a2e" />
     <option name="ScrollBar.thumbBorderColor" value="ffd866" />
-    <option name="ScrollBar.thumbColor" value="ffd866a9" />
+    <option name="ScrollBar.thumbColor" value="ffd866" />
     <option name="ScrollBar.trackColor" value="2d2a2e" />
     <option name="TEARLINE_COLOR" value="403e41" />
     <option name="TOOLTIP" value="2d2a2e" />

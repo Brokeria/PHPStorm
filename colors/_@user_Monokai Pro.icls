@@ -4,7 +4,7 @@
     <property name="created">2019-04-11T21:30:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-04-09T22:54:22</property>
+    <property name="modified">2020-04-12T16:24:24</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2447,8 +2447,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="727072" />
-        <option name="EFFECT_COLOR" value="727072" />
+        <option name="FOREGROUND" value="848484" />
+        <option name="EFFECT_COLOR" value="848484" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3107,7 +3107,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="727272" />
+        <option name="FOREGROUND" value="848484" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />

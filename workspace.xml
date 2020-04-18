@@ -5,7 +5,6 @@
       <JavaScript.js.type.hints>
         <Settings>
           <option name="showForInferredParameters" value="false" />
-          <option name="showForShorthandFunctions" value="true" />
         </Settings>
       </JavaScript.js.type.hints>
     </settingsMapElement>

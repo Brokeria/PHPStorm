@@ -13,6 +13,7 @@
     <option name="BLANK_LINES_AFTER_OPENING_TAG" value="1" />
     <option name="BLANK_LINES_AFTER_FUNCTION" value="2" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
+    <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />

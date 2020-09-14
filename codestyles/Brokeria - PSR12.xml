@@ -1,5 +1,6 @@
 <code_scheme name="Brokeria - PSR12" version="173">
   <option name="RIGHT_MARGIN" value="140" />
+  <option name="SOFT_MARGINS" value="140" />
   <JSCodeStyleSettings version="0">
     <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
   </JSCodeStyleSettings>
@@ -29,6 +30,7 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="140" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />

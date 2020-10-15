@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -4,6 +4,9 @@
       <webServer id="0f1b1e6b-f621-4d3f-ba46-d366656a0b21" name="Brokeria - Persons" url="http://persons">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="56f51a6b-9913-4382-b141-4fd1cf71689f" name="Bookkeeping" url="http://bookkeeping">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>

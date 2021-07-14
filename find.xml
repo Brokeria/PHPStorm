@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -13,6 +12,10 @@
     <mask>*.module</mask>
     <mask>*.phtml</mask>
     <mask>*.ctp</mask>
+    <mask>*.css</mask>
+    <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>

@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping pattern="205" type="AUTO_DETECTED" />
+      <mapping pattern="202" type="AUTO_DETECTED" />
+      <mapping pattern="import podsumowanie" type="AUTO_DETECTED" />
+      <mapping pattern="204" type="PLAIN_TEXT" />
+      <mapping pattern="hub-breadcrumbs.vue" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>

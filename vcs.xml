@@ -4,14 +4,55 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="marekszopinski" />
+          <option name="userName" value="warynyciabrokeria" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="github@brokeria.pl" />
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/clients-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/apigateway-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/frontend-vuexy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/persons-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/crm-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/servicers-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/services-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/employees-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/staff-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://warynyciabrokeria@bitbucket.org/brokeria/printer-ms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Brokeria/package.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="/var/www/html/brokeria-ecosystem" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
@@ -23,8 +64,5 @@
         <option value="Default.Date" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

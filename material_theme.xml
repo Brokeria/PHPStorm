@@ -1,19 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="compactSidebar" value="true" />
-    <option name="isCompactMenus" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="customSidebarHeight" value="23" />
-    <option name="tabOpacity" value="58" />
-    <option name="settingsSelectedTab" value="4" />
-    <option name="tabsHeight" value="30" />
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
-    <option name="userId" value="3ca923d5:1682f03fa5d:-8000" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="46b266c3:16d3a3ee510:-8000" />
     <option name="version" value="5.5.0" />
   </component>
 </application>

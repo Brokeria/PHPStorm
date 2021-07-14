@@ -1,7 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.w3.org/1999/02/22-rdf-syntax-ns#" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/edc05920_22-rdf-syntax-ns#.xml" />
-    <resource url="http://www.w3.org/2000/01/rdf-schema#" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/20d30cf8_rdf-schema#.xml" />
-    <ignored-resource url="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap&amp;subset=latin-ext" />
-  </component>
-</application>

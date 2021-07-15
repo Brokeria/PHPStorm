@@ -4,7 +4,7 @@
     <property name="created">2021-07-05T08:17:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-07-15T09:27:42</property>
+    <property name="modified">2021-07-15T09:29:06</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -3720,7 +3720,7 @@
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="531653" />
+        <option name="FOREGROUND" value="b0aaaa" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />

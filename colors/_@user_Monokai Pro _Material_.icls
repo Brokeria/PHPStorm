@@ -4,7 +4,7 @@
     <property name="created">2021-07-05T08:17:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-07-15T09:29:06</property>
+    <property name="modified">2021-07-16T09:06:29</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -75,9 +75,9 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2d2a2e" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="5b595c" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="403e41" />
-    <option name="LINE_NUMBERS_COLOR" value="878388" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="e0e0e0" />
-    <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
+    <option name="LINE_NUMBERS_COLOR" value="bfbdc3" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="24c6e3" />
+    <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MODIFIED_TAB_ICON" value="ffd866" />
     <option name="MT_FILESTATUS_ADDED" value="a9dc76" />
@@ -315,7 +315,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fc9867" />
+        <option name="FOREGROUND" value="91b8ff" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
@@ -345,7 +345,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a9dc76" />
+        <option name="FOREGROUND" value="3d7310" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
